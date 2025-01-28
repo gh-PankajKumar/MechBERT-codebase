@@ -59,8 +59,8 @@ for model_path in MODELS_TO_EVALUATE:
 ### Clone repo:
 
 ```BASH
-git clone https://github.com/gh-PankajKumar/MechBERT-eval-scripts
-cd MechBERT-eval-scripts
+git clone https://github.com/gh-PankajKumar/MechBERT-codebase
+cd MechBERT-codebase/eval-scripts
 ```
 
 ### Use uv to install requirements:
