@@ -1,0 +1,13 @@
+[project]
+name = "mechbert-eval"
+version = "0.1.0"
+description = "Scripts used to evaluate MechBERT"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=3.2.0",
+    "evaluate[evaluator]>=0.4.3",
+    "pandas>=2.2.3",
+    "torch>=2.5.1",
+    "transformers>=4.48.1",
+]
